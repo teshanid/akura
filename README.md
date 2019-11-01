@@ -1,6 +1,8 @@
 # Akura Student Management System
 
 How to install and run the software
+
+<b>Database Configuration<b>
 1.	Add backup.sql file to MySQL Workbench
 2.	Open InteliJ
 3.	Open Browse to the project folder wait until gradel build operation is finished.
